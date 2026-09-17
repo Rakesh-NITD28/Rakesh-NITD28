@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student at NIT Delhi<br>💻 I love building things for the web — from clean UI to solid backend logic<br>🌱 Currently learning React, Node.js & System Design<br>🔭 Working on personal/college projects to sharpen my full-stack skills<br>⚡ Fun fact: I enjoy turning ideas into working products<br>📫 Reach me at: 00workrakesh@gmail.com<br>
+🎓 Student at NIT Durgapur<br>💻 I love building things for the web — from clean UI to solid backend logic<br>🌱 Currently learning React, Node.js & System Design<br>🔭 Working on personal/college projects to sharpen my full-stack skills<br>⚡ Fun fact: I enjoy turning ideas into working products<br>📫 Reach me at: 00workrakesh@gmail.com<br>
 
 
 ## 🌐 Socials:
